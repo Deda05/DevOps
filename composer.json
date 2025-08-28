@@ -1,0 +1,6 @@
+{
+    "name": "seu-usuario/seu-repositorio",
+    "description": "Um projeto simples em PHP para CI/CD.",
+    "type": "project",
+    "require": {}
+}
